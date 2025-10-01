@@ -14,13 +14,13 @@ class ElephantTest {
 
     @Test
     void makeSound_should_printSound() {
-        Animal lion = new Elephant("Kitty");
+        Animal elephant = new Elephant("Elly");
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         PrintStream originalOut = System.out;
         System.setOut(new PrintStream(outContent));
 
         try {
-            lion.makeSound();
+            elephant.makeSound();
             String output = outContent.toString().trim();
             Assertions.assertEquals("Hjooonk", output);
         } finally {
@@ -31,13 +31,13 @@ class ElephantTest {
 
     @Test
     void makeSoundWith3_should_printSound3Times() {
-        Animal lion = new Elephant("Kitty");
+        Animal elephant = new Elephant("Elly");
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         PrintStream originalOut = System.out;
         System.setOut(new PrintStream(outContent));
 
         try {
-            lion.makeSound(3);
+            elephant.makeSound(3);
             String output = outContent.toString().trim();
             Assertions.assertEquals("Hjooonk Hjooonk Hjooonk", output);
         } finally {
@@ -48,13 +48,13 @@ class ElephantTest {
 
     @Test
     void makeSoundWith0_should_printSound0Times() {
-        Animal lion = new Elephant("Kitty");
+        Animal elephant = new Elephant("Elly");
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         PrintStream originalOut = System.out;
         System.setOut(new PrintStream(outContent));
 
         try {
-            lion.makeSound(0);
+            elephant.makeSound(0);
             String output = outContent.toString().trim();
             Assertions.assertEquals("", output);
         } finally {
