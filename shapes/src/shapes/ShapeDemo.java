@@ -1,7 +1,7 @@
 package shapes;
 
 public class ShapeDemo {
-   public static void main(String[] args) {
+   public static void main(String[] args) throws IllegalArgumentException {
       Shape circle = new Circle("Circ", 10);
       Shape rectangle = new Rectangle("Rect", 5, 10);
       Shape triangle = new Triangle("Tri", 5, 5, 5);

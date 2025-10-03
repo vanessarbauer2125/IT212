@@ -7,6 +7,7 @@ public class Triangle extends Shape {
    
    public Triangle (String name, double sideA, double sideB, double sideC) {
       super(name);
+      this.verifyPostiveNumber(sideA, sideB, sideC);
       this.sideA = sideA;
       this.sideB = sideB;
       this.sideC = sideC;
