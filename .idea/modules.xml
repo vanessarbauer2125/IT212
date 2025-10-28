@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/mathutils/mathutils.iml" filepath="$PROJECT_DIR$/mathutils/mathutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/mediaplayer/mediaplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/shapes/shapes.iml" filepath="$PROJECT_DIR$/shapes/shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waitinglist/waitinglist.iml" filepath="$PROJECT_DIR$/waitinglist/waitinglist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waitinglist2/waitinglist2.iml" filepath="$PROJECT_DIR$/waitinglist2/waitinglist2.iml" />
       <module fileurl="file://$PROJECT_DIR$/zoo/zoo.iml" filepath="$PROJECT_DIR$/zoo/zoo.iml" />
     </modules>
   </component>
