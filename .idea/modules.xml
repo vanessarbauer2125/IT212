@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/IT212.iml" filepath="$PROJECT_DIR$/IT212.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordFrequencyCounter/WordFrequencyCounter.iml" filepath="$PROJECT_DIR$/WordFrequencyCounter/WordFrequencyCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraylistsanditerators/arraylistsanditerators.iml" filepath="$PROJECT_DIR$/arraylistsanditerators/arraylistsanditerators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics2/generics2.iml" filepath="$PROJECT_DIR$/generics2/generics2.iml" />
       <module fileurl="file://$PROJECT_DIR$/gpaconverter/gpaconverter.iml" filepath="$PROJECT_DIR$/gpaconverter/gpaconverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/mathutils/mathutils.iml" filepath="$PROJECT_DIR$/mathutils/mathutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/mediaplayer/mediaplayer.iml" />
