@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics2/generics2.iml" filepath="$PROJECT_DIR$/generics2/generics2.iml" />
       <module fileurl="file://$PROJECT_DIR$/gpaconverter/gpaconverter.iml" filepath="$PROJECT_DIR$/gpaconverter/gpaconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/healthrecordsymmetry/healthrecordsymmetry.iml" filepath="$PROJECT_DIR$/healthrecordsymmetry/healthrecordsymmetry.iml" />
       <module fileurl="file://$PROJECT_DIR$/mathutils/mathutils.iml" filepath="$PROJECT_DIR$/mathutils/mathutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/mediaplayer/mediaplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/patienthealthrecords/patienthealthrecords.iml" filepath="$PROJECT_DIR$/patienthealthrecords/patienthealthrecords.iml" />
