@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/IT212.iml" filepath="$PROJECT_DIR$/IT212.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordFrequencyCounter/WordFrequencyCounter.iml" filepath="$PROJECT_DIR$/WordFrequencyCounter/WordFrequencyCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraylistsanditerators/arraylistsanditerators.iml" filepath="$PROJECT_DIR$/arraylistsanditerators/arraylistsanditerators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubblesort/bubblesort.iml" filepath="$PROJECT_DIR$/bubblesort/bubblesort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecommerceorder/ecommerceorder.iml" filepath="$PROJECT_DIR$/ecommerceorder/ecommerceorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics2/generics2.iml" filepath="$PROJECT_DIR$/generics2/generics2.iml" />
